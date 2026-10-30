@@ -27,8 +27,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 118749295189
-  numberOfFiles: 254
+  numberOfBytes: 346430336875
+  numberOfFiles: 255
   numberOfSubjects: 2
   schemaKey: AssetsSummary
   species:
@@ -44,6 +44,7 @@ assetsSummary:
   - LFP
   - ElectricalSeries
   - ProcessingModule
+  - BehavioralEvents
 citation: Bray, Samuel (2026) c3po_publication (Version draft) [Data set]. DANDI Archive.
   https://dandiarchive.org/dandiset/002044/draft
 contributor:
